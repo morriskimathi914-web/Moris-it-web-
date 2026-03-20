@@ -1,0 +1,23 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moris IT Services</title>
+</head>
+<body style="font-family: Arial; text-align: center;">
+
+    <h1>Welcome to Moris IT</h1>
+    <p>Computer & Laptop Repair Services</p>
+
+    <h2>Our Services</h2>
+    <p>✔ Laptop Repair</p>
+    <p>✔ Software Installation</p>
+    <p>✔ Coding Services</p>
+    <p>✔ Online Services</p>
+
+    <h3>Contact</h3>
+    <p>Phone: 0791641748</p>
+    <p>Location: Marimanti</p>
+
+</body>
+</html>
